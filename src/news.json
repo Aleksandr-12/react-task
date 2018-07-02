@@ -1,0 +1,44 @@
+localStorage.setItem("this.refs.email.value",serialObj);
+/*var obj = {
+	name: this.refs.name.value,
+	
+	password:this.refs.password.value
+};
+
+var serialObj = JSON.stringify(obj);
+	alert(serialObj);
+	this.setState({ret: serialObj})
+	localStorage.setItem("this.refs.email.value",serialObj);*/
+	
+	
+	
+	   
+	   
+  }
+  /*read = () => {
+	
+	var returnObj = JSON.parse(this.state.ret);
+var data = {
+	new :{
+		new1 : {
+			"id": 1,
+			"title": "f",
+			"articles": 1,
+		},
+		new2 : {
+			"id": 2,
+			"title": 1,
+			"articles": 1,
+		},
+		new3 : {
+			"id": 3,
+			"title": 1,
+			"articles": 1,
+		},
+		new4 : {
+			"id": 4,
+			"title": 1,
+			"articles": 1,
+		},
+	}	
+}
