@@ -10,7 +10,7 @@ export default class news extends React.Component {
                 titles:'Preisangaben', 
                 name: [ 
                     {values: [
-                        {name: 'Dakaufspreis', value: '123'}, 
+                        {name: 'Dakaufspreis', value: '14523'}, 
                         {name: 'Verkaufpreis', value: '345'},
                         {name: 'Wahruns:',     value: '567'}
                         ]}
